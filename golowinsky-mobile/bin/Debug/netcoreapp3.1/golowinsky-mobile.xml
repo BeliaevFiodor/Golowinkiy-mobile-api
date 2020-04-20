@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>golowinsky-mobile</name>
+    </assembly>
+    <members>
+        <member name="M:golowinsky_mobile.Controllers.MainController.CheckMobileAppCodeUrl(System.String,System.String)">
+            <summary>
+            This is xml comments. here is a method description
+            </summary>
+            <param name="app_code">what is app_code</param>
+            <param name="url">what is url</param>
+            <returns>what is returns</returns>
+        </member>
+    </members>
+</doc>
