@@ -12,7 +12,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace golowinsky_mobile.Controllers
 {
     [Produces("application/json")]
-    [Route("api/")]
+    [Route("ws/carprc.svc/")]
     [ApiController]
     [AllowAnonymous]
     public class MainController : ControllerBase
