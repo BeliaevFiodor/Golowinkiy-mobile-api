@@ -3,6 +3,7 @@ using golowinsky_mobile.Contract;
 using golowinsky_mobile.Implementation;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Rewrite;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -41,7 +42,10 @@ namespace golowinsky_mobile
             }
 
             //app.UseHttpsRedirection();
+            //var options = new RewriteOptions().AddRedirectToHttps();
+            //app.UseRewriter(options);
             app.UseRouting();
+
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapDefaultControllerRoute();
@@ -49,9 +53,9 @@ namespace golowinsky_mobile
             //app.UseAuthorization();
             app.UseOpenApi(s => s.PostProcess = (document, request) =>
             {
-                if (env.IsDevelopment()) return;
+                //if (env.IsDevelopment()) return;
                 document.Schemes.Clear();
-                document.Schemes.Add(NSwag.OpenApiSchema.Https);
+                document.Schemes.Add(NSwag.OpenApiSchema.Http);
             }).UseSwaggerUi3();
             app.UseCors(builder => builder.AllowAnyOrigin()
                 .AllowAnyMethod()

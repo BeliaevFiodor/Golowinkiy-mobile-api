@@ -15,7 +15,7 @@ namespace golowinsky_mobile.Controllers
     [Route("ws/carprc.svc/")]
     [ApiController]
     [AllowAnonymous]
-    public class MainController : ControllerBase
+       public class MainController : ControllerBase
     {
         private readonly ICarPrc _repository;
         public MainController(ICarPrc repository)
