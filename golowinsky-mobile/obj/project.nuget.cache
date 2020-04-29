@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xSO4TQHb1YeYLC9OMvCI6T3DXytf6KYIJVhofyX0AVOnmX3imDLZNOc/SlVOvnLuvNynZzhvryGlZsw2Xb7htA==",
+  "dgSpecHash": "erQ0tdb+XgNMJUjQthaXC+O4g2eN5ugBaVeNJHo8L1mjd9oLxk+kB/k1AWAv6d0ZuL3Ff5H9kGQAmkZKhtTI5w==",
   "success": true,
   "projectFilePath": "C:\\Work\\Golowinkiy-mobile-api\\golowinsky-mobile\\golowinsky-mobile.csproj",
   "expectedPackageFiles": [
@@ -174,7 +174,9 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\37525\\.nuget\\packages\\system.xml.xpath\\4.0.1\\system.xml.xpath.4.0.1.nupkg.sha512",
-    "C:\\Users\\37525\\.nuget\\packages\\system.xml.xpath.xdocument\\4.0.1\\system.xml.xpath.xdocument.4.0.1.nupkg.sha512"
+    "C:\\Users\\37525\\.nuget\\packages\\system.xml.xpath.xdocument\\4.0.1\\system.xml.xpath.xdocument.4.0.1.nupkg.sha512",
+    "C:\\Users\\37525\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512",
+    "C:\\Users\\37525\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.2\\microsoft.netcore.app.host.win-x64.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }
