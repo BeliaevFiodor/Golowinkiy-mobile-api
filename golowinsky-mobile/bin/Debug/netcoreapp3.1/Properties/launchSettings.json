@@ -11,9 +11,11 @@
   "profiles": {
     "IIS Express": {
       "commandName": "IISExpress",
+      "commandLineArgs": "hostingModel=\"OutOfProcess\"",
       "launchBrowser": true,
       "launchUrl": "swagger",
       "environmentVariables": {
+        "hostingModel": "OutOfProcess",
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },

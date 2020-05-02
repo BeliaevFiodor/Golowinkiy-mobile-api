@@ -136,9 +136,7 @@ C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\bin\Debug\netcoreapp3.1\Microsof
 C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
 C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
 C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
 C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
-C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
 C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
 C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -236,3 +234,4 @@ C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\obj\Debug\netcoreapp3.1\golowins
 C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\obj\Debug\netcoreapp3.1\golowinsky-mobile.xml
 C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\obj\Debug\netcoreapp3.1\golowinsky-mobile.pdb
 C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\obj\Debug\netcoreapp3.1\golowinsky-mobile.genruntimeconfig.cache
+C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll

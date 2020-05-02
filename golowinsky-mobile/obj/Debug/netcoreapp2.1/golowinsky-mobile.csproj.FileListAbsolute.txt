@@ -1,0 +1,12 @@
+C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\obj\Debug\netcoreapp2.1\golowinsky-mobile.csprojAssemblyReference.cache
+C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\obj\Debug\netcoreapp2.1\golowinsky-mobile.csproj.CoreCompileInputs.cache
+C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\obj\Debug\netcoreapp2.1\golowinsky-mobile.AssemblyInfoInputs.cache
+C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\obj\Debug\netcoreapp2.1\golowinsky-mobile.AssemblyInfo.cs
+C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\bin\Debug\netcoreapp2.1\golowinsky-mobile.deps.json
+C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\bin\Debug\netcoreapp2.1\golowinsky-mobile.runtimeconfig.json
+C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\bin\Debug\netcoreapp2.1\golowinsky-mobile.runtimeconfig.dev.json
+C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\bin\Debug\netcoreapp2.1\golowinsky-mobile.dll
+C:\Work\Golowinkiy-mobile-api\golowinsky-mobile\obj\Debug\netcoreapp2.1\golowinsky-mobile.genruntimeconfig.cache
